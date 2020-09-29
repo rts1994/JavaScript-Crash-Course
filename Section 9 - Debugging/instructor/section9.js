@@ -3,8 +3,6 @@ Error Messages
 */
 
 // Syntax Error
-
-
 /*
 const multiply = (a, b) => {
     console.log(a * b);
